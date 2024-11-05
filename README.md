@@ -42,7 +42,7 @@ No active license
 
 ## Tests
 
-> node index.js
+Walkthrough Video: <video width="1440" height="500" controls><source src="readmeWalkthrough.mp4" type="video/mp4"></video>
 
 ## Questions
 
