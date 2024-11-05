@@ -1,8 +1,8 @@
-# HFC Worship Resources
+# Professional README Generator
 
 ## Description
 
-Useful tools and resources intended on helping musicians and churches around the globe to grow in worship. From tutorials to weekly teachings, everything you need to grow in worship is here.
+Ever wanted to get a head start on your project? Try out this README generator and start early on your work. Simply input all your project information and in just a couple seconds you'll have your very own professional README file.
 
 ## Table of Contents
 
