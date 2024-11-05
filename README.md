@@ -2,7 +2,7 @@
 
 ## Description
 
-Useful tools and resources intended on helping musicians and churches around the globe to grow in worship.
+Useful tools and resources intended on helping musicians and churches around the globe to grow in worship. From tutorials to weekly teachings, everything you need to grow in worship is here.
 
 ## Table of Contents
 

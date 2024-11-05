@@ -1,10 +1,8 @@
-// TODO: Include packages needed for this application
 import inquirer from "inquirer";
 import fs from 'fs';
 import generateMarkdown from "../../readme-generator/assets/generateMarkdown.js";
 import colors from 'colors';
 
-// TODO: Create an array of questions for user input
 const questions = [
     {
         type: 'input',
@@ -54,27 +52,15 @@ const questions = [
     }
 ];
 
-
-// TODO: Create a function to write README file
-/* function writeToFile(fileName, data) {
-    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
-} */
 function writeFile(fileName, data) {
     return fs.writeFile(fileName, data, (err) =>
     err ? console.error(err) : console.log('Generating README...'));
 }
 
-// TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then((responses) => {
-        //writeToFile('README.md', generateMarkdown({...responses}));
         writeFile('README.md', generateMarkdown({...responses}));
     });
 }
 
-// Function call to initialize app
 init();
-
-
-
-
