@@ -42,7 +42,7 @@ No active license
 
 ## Tests
 
-Walkthrough Video: <video width="1440" height="500" controls><source src="readmeWalkthrough.mp4" type="video/mp4"></video>
+> <a href="https://drive.google.com/file/d/13E_-_M0Fad0Dwqcd26ksb-1otfS0JAqO/view">Walkthrough Video</a>
 
 ## Questions
 
